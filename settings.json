@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "West0chka.aternos.me",
+    "ip": "West0chka.aternos.me:58287",
     "port": 58287,
     "version": "",
     "try-creative": false
