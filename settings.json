@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Заходи на стрим: https://www.twitch.tv/west0chka",
+        "Стримы по ПН, СР, ПТ 14:00 по МСК",
+        "Заходи на ютуб: https://www.youtube.com/@West0chka-offc"
       ]
     },
     "chat-log": true,
@@ -82,6 +82,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
